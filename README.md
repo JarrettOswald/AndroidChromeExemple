@@ -5,7 +5,7 @@
 
 2) Android Studio (https://developer.android.com/studio)
 
-3) Так же надо создать переменную среды ANDROID_HOME с в значении которой будет путь до Android SDK 
+3) Так же надо создать переменную среду ANDROID_HOME с значении которой будет путь до Android SDK 
 (ANDROID_HOME | C:\Users\Korepanov\AppData\Local\Android\Sdk)
 
 Чтобы запусить проект надо:
